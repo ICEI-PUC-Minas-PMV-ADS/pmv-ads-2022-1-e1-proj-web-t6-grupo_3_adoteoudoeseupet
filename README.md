@@ -3,8 +3,10 @@
 `CURSO`Analise e Desenvolvimento de Sistemas
 
 `DISCIPLINA`
-Projeto: Desenvolvimento de Aplicação Web Front-End
-1º Semestre
+Projeto: Desenvolvimento de Aplicação Web Front-
+
+`SEMESTR`1º Semestre
+
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
