@@ -1,6 +1,7 @@
 # Introdução
-
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+É cada vez mais frequente, com a evolução da internet e o avanço do compartilhamento de dados, que as informações das pessoas passem por alguma rede e se transformem em algum algoritmo, podendo assim, ajudar em diversos problemas que se tornam cada vez mais frequentes, como por exemplo; o abandono de animais.
+Neste sentido, tendo em vista que o abandono de animais é um problema que tem aumentado nos últimos anos e que organizações não-governamentais (ONGs) constantemente enfrentam adversidades por sobreviverem essencialmente de doações, é completamente viável que a internet possa ser uma ferramenta para resolver esse problema. Segundo Rosangela Gebara, gerente de projetos da ampara animal, o abandono de animais aumentou 60% nos últimos anos, podendo ser considerado, que o aumento repentino deste número também se dê aos estragos causados pela pandemia, o que resultou na falta de condições das pessoas em sustentarem as moradias de seus pets.
+Sendo assim, é imprescindível que haja espaços virtuais com algoritmos que facultem e recolham informações dos usuários para doações e retiradas de animais de lares temporários e das ruas, provendo assim uma solução prática e de caridade.
 
 ## Problema
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
