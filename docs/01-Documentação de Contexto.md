@@ -14,7 +14,9 @@ por algum motivo em específico não tem mais a condição de criar seus animais
 Como objetivos específicos, podemos ressaltar:
 
 ⦁ Encontrar um lar definitivo para um animal que se encontra abandonado;
+
 ⦁ Possibilitar pessoas a doar seu pet, que por algum motivo crítico (como por exemplo os estragos da pandemia) resultou na falta de condições para sustentarem as moradias dos mesmos;
+
 ⦁ Articular ações coletivas de sensibilização em relação aos animais, despertando a cooperação e solidariedade de forma integrada e participativa.
 
 ## Justificativa
