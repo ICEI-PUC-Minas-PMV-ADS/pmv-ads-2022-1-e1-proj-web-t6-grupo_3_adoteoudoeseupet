@@ -3,7 +3,7 @@
 `CURSO`Analise e Desenvolvimento de Sistemas
 
 `DISCIPLINA`
-Projeto: Desenvolvimento de Aplicação Web Front-
+Projeto: Desenvolvimento de Aplicação Web Front-End
 
 `SEMESTRE`1º Semestre
 
