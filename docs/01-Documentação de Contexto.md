@@ -10,7 +10,9 @@ O projeto busca amenizar e tentar resolver a causa de abandono de animais no pa�
 
 O objetivo geral deste trabalho é a criação de uma aplicação web/mobile que apresente ferramentas de fácil uso, possibilitando acesso a diversos usuários achar uma solução aos objetivos em específicos. O Projeto abandono de animais, visa diminuir a população de animais abandonados e maltratados nas ruas atendendo e reabilitando animas em situação de vulnerabilidade, impactando positivamente o bem estar dos mesmos, e sendo também positivamente uma solução para pessoas que
 por algum motivo em específico não tem mais a condição de criar seus animais de estimação.
+
 Como objetivos específicos, podemos ressaltar:
+
 ⦁ Encontrar um lar definitivo para um animal que se encontra abandonado;
 ⦁ Possibilitar pessoas a doar seu pet, que por algum motivo crítico (como por exemplo os estragos da pandemia) resultou na falta de condições para sustentarem as moradias dos mesmos;
 ⦁ Articular ações coletivas de sensibilização em relação aos animais, despertando a cooperação e solidariedade de forma integrada e participativa.
