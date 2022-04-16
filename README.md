@@ -5,20 +5,20 @@
 `DISCIPLINA`
 Projeto: Desenvolvimento de Aplicação Web Front-
 
-`SEMESTR`1º Semestre
+`SEMESTRE`1º Semestre
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
-
+O Projeto e a criação de uma pagina web ou mobile, visando diminuir a população de animais abandonados e maltratados nas ruas atendendo e reabilitando animas em situação de vulnerabilidade, impactando positivamente o bem estar dos mesmos, e sendo também positivamente uma solução para pessoas que
+por algum motivo em específico não tem mais a condição de criar seus animais de estimação.
 ## Integrantes
 
-* Nome completo do aluno 1
+* Caroline Samara Araujo da Silva
 * Nome completo do aluno 2
 * Nome completo do aluno 3
 * Nome completo do aluno 4
 
 ## Orientador
 
-* Nome completo do professor 1
+* Nathalia Assis Valentim
 
 ## Instruções de utilização
 
