@@ -4,25 +4,16 @@ Neste sentido, tendo em vista que o abandono de animais é um problema que tem a
 Sendo assim, é imprescindível que haja espaços virtuais com algoritmos que facultem e recolham informações dos usuários para doações e retiradas de animais de lares temporários e das ruas, provendo assim uma solução prática e de caridade.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+O projeto busca amenizar e tentar resolver a causa de abandono de animais no país, através da nossa plataforma. O nível de animais que ficam exposto ao abandono no Brasil é imenso, isso ocorre pois os abandonos dos pets são feitos geralmente onde seu dono o deixa em algum lugar público e/ou longe da sua casa, tornando impossível o pet voltar ao dono. Com essa barbaridade afetando inúmeros pets, onde ONGs de animais os recolhem, alimentam e medicam esses animais para que possam ter uma vida digna. Há também o fato de pessoas que precisam que seus pets sejam adotados, por algum motivo seja ele: onde se vão morar em uma nova região, o local onde residem não permite animais do porte de seu pet, e que não tenham tempo para se dedicar ao seu pet.
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+O objetivo geral deste trabalho é a criação de uma aplicação web/mobile que apresente ferramentas de fácil uso, possibilitando acesso a diversos usuários achar uma solução aos objetivos em específicos. O Projeto abandono de animais, visa diminuir a população de animais abandonados e maltratados nas ruas atendendo e reabilitando animas em situação de vulnerabilidade, impactando positivamente o bem estar dos mesmos, e sendo também positivamente uma solução para pessoas que
+por algum motivo em específico não tem mais a condição de criar seus animais de estimação.
+Como objetivos específicos, podemos ressaltar:
+⦁ Encontrar um lar definitivo para um animal que se encontra abandonado;
+⦁ Possibilitar pessoas a doar seu pet, que por algum motivo crítico (como por exemplo os estragos da pandemia) resultou na falta de condições para sustentarem as moradias dos mesmos;
+⦁ Articular ações coletivas de sensibilização em relação aos animais, despertando a cooperação e solidariedade de forma integrada e participativa.
 
 ## Justificativa
 
