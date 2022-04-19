@@ -12,7 +12,7 @@ por algum motivo em específico não tem mais a condição de criar seus animais
 ## Integrantes
 
 * Caroline Samara Araujo da Silva
-* Nome completo do aluno 2
+* Arthur Hualde Ribeiro
 * Nome completo do aluno 3
 * Nome completo do aluno 4
 
