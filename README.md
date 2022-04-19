@@ -13,7 +13,7 @@ por algum motivo em específico não tem mais a condição de criar seus animais
 
 * Caroline Samara Araujo da Silva
 * Arthur Hualde Ribeiro
-* Nome completo do aluno 3
+* Aleson Talis de Oliveira Ramos
 * Nome completo do aluno 4
 
 ## Orientador
