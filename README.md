@@ -12,7 +12,7 @@ por algum motivo em específico não tem mais a condição de criar seus animais
 ## Integrantes
 
 * Caroline Samara Araujo da Silva
-* Arthur Hualde Ribeiro
+* Arthur Hualde Ribeiro wqeqweqweqweqweqweqewqeqweqweqweqweqwe
 * Aleson Talis de Oliveira Ramo
 * Guilherme Batista Brito
 * Brenno Braga 
