@@ -13,8 +13,10 @@ por algum motivo em específico não tem mais a condição de criar seus animais
 
 * Caroline Samara Araujo da Silva
 * Arthur Hualde Ribeiro
-* Aleson Talis de Oliveira Ramos
-* Brenno Braga Queiroz
+* Aleson Talis de Oliveira Ramo
+* Guilherme Batista Brito
+* Brenno Braga 
+
 ## Orientador
 
 * Nathalia Assis Valentim
