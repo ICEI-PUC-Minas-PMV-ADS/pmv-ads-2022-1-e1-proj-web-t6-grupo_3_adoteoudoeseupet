@@ -11,7 +11,7 @@ O Projeto e a criação de uma pagina web ou mobile, visando diminuir a populaç
 por algum motivo em específico não tem mais a condição de criar seus animais de estimação.
 ## Integrantes
 
-* Caroline Samara Araujo da Silv
+* Caroline Samara Araujo da Silva
 * Arthur Hualde Ribeiro
 * Aleson Talis de Oliveira Ramo
 * Guilherme Batista Brito
