@@ -9,11 +9,58 @@ As pessoas entrevistadas durante o processo de resolução de problemas estão r
 ________________________________________________________________________________________
 Nome | Idade | Ocupação
 ---|---|---
-![Sandra Regina] **Sandra Regina** | 45 anos | Professora de história em uma escola de médio porte.
+ **Sandra Regina** | 45 anos | Professora de história em uma escola de médio porte.
 
 Aplicativos | Detalhes Pessoais | Frustrações | Hobbies/História
 ---|---|---|---
 Instagram<br> Facebook<br> Youtube | Mora em Belo horizonte, Casada e Não tem filhos. | Perdeu um dos seus pets. | Sou dedicada, alegre, comunicativa e amo animais de estimação. Passo o meu tempo lendo livros, fazendo caminhada e amo passar meu tempo com meus pets. 
+
+________________________________________________________________________________________
+Nome | Idade | Ocupação
+---|---|---
+ **Willian Silva** | 27 anos | Publicitário, trabalho em uma empresa privada no departamento de marketing e comunicação.
+
+Aplicativos | Detalhes Pessoais | Frustrações | Hobbies/História
+---|---|---|---
+Instagram<br> Facebook<br> Youtube<br> LinkedIn<br> Zoom | Mora em Belo horizonte, Solteiro e Mora sozinho. | Viaja muito e quase não tem tempo;<br> Está querendo doar seu animal por falta de tempo para cuidar. | Sou alegre, otimista, e apaixonado por fazer aquilo que faz. No meu tempo livre viajar e conhecer lugares novos.
+
+________________________________________________________________________________________
+Nome | Idade | Ocupação
+---|---|---
+ **João Paulo** | 32 anos | Motorista de aplicativo.
+
+Aplicativos | Detalhes Pessoais | Frustrações | Hobbies/História
+---|---|---|---
+Facebook<br> Youtube<br> Telegram | Mora em Belo Horizonte, Casado e tem 1 filho | Não ter conquistado minha casa própria. | Nasci no interior de Minas Gerais, vim para Belo Horizonte com 15 anos de idade, a procura de melhores
+oportunidades de trabalho. Já trabalhando como trocador de ônibus, conheci minha atual esposa, com quem me casei e
+atualmente temos um filho de 5 anos.<br> Futebol, games e skate.
+
+________________________________________________________________________________________
+Nome | Idade | Ocupação
+---|---|---
+ **Valentina Pereira** | 23 anos | Influenciadora, tenho 53mil seguidores no Instagram e um canal no YouTube com 17 mil inscritos.
+
+Aplicativos | Detalhes Pessoais | Frustrações | Hobbies/História
+---|---|---|---
+Instagram<br> Facebook<br> Youtube<br> Zoom | Mora em Belo horizonte, Solteira, Mora sozinho e Não tem filhos. | Não ter alcançado meus objetivos e sonhos através da minha profissão. | Nascida e criada em ambiente familiar, não muito tradicional, com os pais separados. Formei no ensino médio e hoje estou cursando publicidade e propaganda.<br> Amo sempre estar com minha família e amigos.
+
+________________________________________________________________________________________
+Nome | Idade | Ocupação
+---|---|---
+ **Maria Pérez** | 44 anos | Secretária em escola particular da educação infantil.
+
+Aplicativos | Detalhes Pessoais | Frustrações | Hobbies/História
+---|---|---|---
+Waze<br> Twitter<br> Amazon | Mora em Belo Horizonte, Casada e tem 1 filho| Não ter uma saúde equilibrada a aponto de estar acima do meu peso ideal e passar por alguns problemas de saúde. | Por ter perdido meus pais aos 9 anos, tive grandes
+responsabilidades muito precoce. Trabalho na mesma empresa a 23 anos. Engravidei aos 19 anos e hoje tenho uma filha, formada e já casada.<br>Adoro sair com meus amigos, viajar e acampar.
+________________________________________________________________________________________
+Nome | Idade | Ocupação
+---|---|---
+ **Victor Mendes** | 40 anos | Veterinário.
+
+Aplicativos | Detalhes Pessoais | Frustrações | Hobbies/História
+---|---|---|---
+Instagram<br> Facebook<br> Youtube | Mora em Belo horizonte, Casado e Não tem filhos. | Ainda alcançar poucas pessoas com os projetos da minha ONG. | Quando adulto tive a iniciativa de criar uma ONG, com a ajuda de parceiros, para encontrar famílias interessadas a adotar animais de rua.<br> Em meu tempo livre gosto de ir Cinema, teatro e museus.
 
 ## Histórias de Usuários
 
