@@ -52,7 +52,7 @@ O site deve permitir ao usuário criar uma conta privada, possibilitando divulga
 
 Uma página que mostra ao usuário o propósito do nosso projeto, representado por um título, conteúdo e imagem.
 
-![pagina-sobre-nos](img/pagina-sobre-nos.png)
+![pagina-sobre](img/pagina-sobre.png)
 
                                             Tela sobre nós.
 
@@ -96,4 +96,3 @@ Nessa tela mostra a parte final da página, nela se encontra as nossas redes soc
 
                                             Tela de rodapé.
 
-                                            
