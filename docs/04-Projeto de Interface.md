@@ -1,13 +1,15 @@
 
 # Projeto de Interface
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
+Desenvolvemos uma montagem da interface do sistema, com capacidade para se adaptar ao ambiente de acesso do usuário, conforme os dispositivos utilizados.
+Desta forma, todo conteúdo e padrão de layout podem ser transportados para as mais variadas orientações, plataformas e dimensões de tela, com foco na facilidade de navegação, disponibilidade e usabilidade.
 
-Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
+## Fluxo do Usuário
 
- Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
+O diagrama da Figura a seguir mostra o fluxo de interação do usuário através das telas do sistema. Cada uma das telas neste fluxo é descrita em detalhes na seção de Wireframes. Para visualizar o Wireframe interativo, acesse o Figma.
+(https://www.figma.com/file/LrRbbZ3COSTbXcRlPDNx41/Projeto-Wiframes?nodeid=0%3A1)
 
-## User Flow
+![fluxo de telas](img\fluxo de telas de usuario.png)
 
 ![Exemplo de UserFlow](img/userflow.jpg)
 
