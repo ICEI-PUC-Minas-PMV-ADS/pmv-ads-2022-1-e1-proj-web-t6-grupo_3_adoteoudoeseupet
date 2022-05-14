@@ -36,6 +36,6 @@ A tela de página inicial mostra a estrutura padrão, o bloco de Conteúdo traz 
 5. Cadastrar – que é a página onde o usuário fará seu cadastro para o site;<br>
 6. Entrar – que é a página onde o usuário fará o login para o site.
 
-![tela-inicial](img/tela-inicial.png)
+![pagina-inicial](img/pagina-inicial.png)
 
                                             Tela de página inicial.
