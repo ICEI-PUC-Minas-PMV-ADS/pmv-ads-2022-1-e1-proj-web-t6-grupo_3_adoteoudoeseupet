@@ -6,17 +6,17 @@ Nesta seção são apresentados os detalhes técnicos da solução criada pela e
 
 Os componentes que fazem parte da solução são apresentados na Figura que se segue.
 
-![Diagrama-componentes](img/diagrama-componentes.png)
+![Diagrama-componentes](img/diagrama-componentes.jpg)
 
                                               Diagrama de componentes.
 
 A solução implementada conta com os seguintes módulos:
 
 ● Páginas Web - Conjunto de arquivos HTML, CSS, Javascript e imagens que exibem a parte gráfica interativa do sistema, exibindo de forma simples a interação entre o Usuário e o Servidor.<br>
-  Páginas ><br>
-   ○ Landing Page<br>
-   ○ Cadastro/Login<br>
-   ○ Pets<br>
+  ⦁ Páginas ><br>
+   ⦁ Landing Page<br>
+   ⦁ Cadastro/Login<br>
+   ⦁ Pets<br>
     ■ Em doação<br>
     ■ Doar<br>
     ■ Chat<br>
