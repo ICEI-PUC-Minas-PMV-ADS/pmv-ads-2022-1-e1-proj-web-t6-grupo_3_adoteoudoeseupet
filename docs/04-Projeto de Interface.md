@@ -24,3 +24,18 @@ A seguir nas telas do projeto, as telas do sistema são apresentadas em detalhes
 ![estrutura](img/wireframe-estrutura.png)
 
                                         Estrutura padrão do site.
+
+## Tela – Página inicial      
+
+A tela de página inicial mostra a estrutura padrão, o bloco de Conteúdo traz em destaque o principal objetivo do projeto que é a adoção de animais contendo (imagem, título, fonte e resumo, botão). O cabeçalho contém seis elementos diferentes:
+
+1. Adote – pagina para o usuário adotar um animal;<br>
+2. Doar – pagina para o usuário doar um animal;<br>
+3. Sobre nós – nessa página falamos sobre o intuito do nosso projeto;<br>
+4. Contato – nossas formas de contato.<br>
+5. Cadastrar – que é a página onde o usuário fará seu cadastro para o site;<br>
+6. Entrar – que é a página onde o usuário fará o login para o site.
+
+![tela-inicial](img/tela-inicial.png)
+
+                                            Tela de página inicial.
