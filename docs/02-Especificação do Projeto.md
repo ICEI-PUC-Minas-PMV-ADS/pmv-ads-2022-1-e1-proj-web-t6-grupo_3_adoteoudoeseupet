@@ -9,13 +9,11 @@ As pessoas entrevistadas durante o processo de resolução de problemas estão r
 ________________________________________________________________________________________
 Nome | Idade | Ocupação
 ---|---|---
-![Sandra Regina] **Sandra Regina** | 45 anos | Professora
-de história em uma escola de médio porte.
+![Sandra Regina] **Sandra Regina** | 45 anos | Professora de história em uma escola de médio porte.
 
 Aplicativos | Detalhes Pessoais | Frustrações | Hobbies/História
 ---|---|---|---
-Instagram<br> Facebook<br> Youtube | Mora em Belo horizonte, Casada e Não tem filhos. | Perdeu um dos
-seus pets. | Sou dedicada, alegre, comunicativa e amo animais de estimação. Passo o meu tempo lendo livros, fazendo caminhada e amo passar meu tempo com meus pets. 
+Instagram<br> Facebook<br> Youtube | Mora em Belo horizonte, Casada e Não tem filhos. | Perdeu um dos seus pets. | Sou dedicada, alegre, comunicativa e amo animais de estimação. Passo o meu tempo lendo livros, fazendo caminhada e amo passar meu tempo com meus pets. 
 
 ## Histórias de Usuários
 
