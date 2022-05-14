@@ -39,3 +39,61 @@ A tela de página inicial mostra a estrutura padrão, o bloco de Conteúdo traz 
 ![pagina-inicial](img/pagina-inicial.png)
 
                                             Tela de página inicial.
+
+## Tela – Pagina de cadastro
+
+O site deve permitir ao usuário criar uma conta privada, possibilitando divulgar e adotar seu animal de estimação, representado por uma imagem, título, conteúdo e botão de registro.
+
+![pagina-cadastro](img/pagina-cadastro.png)
+
+                                            Tela de cadastro.
+
+## Tela – Pagina sobre nós
+
+Uma página que mostra ao usuário o propósito do nosso projeto, representado por um título, conteúdo e imagem.
+
+![pagina-sobre-nos](img/pagina-sobre-nos.png)
+
+                                            Tela sobre nós.
+
+## Tela – Pagina adote
+
+Nessa tela permite que o usuário:
+
+· Encontre seu animal para adotar, nas características desejadas;<br>
+· Permiti que o usuário veja fotos e informação necessárias sobre o pet interessado;<br>
+· Permiti salvar anúncios interessado pelo usuário;<br>
+· Permiti que os usuários possam comentar sobre o anúncio;<br>
+· Permiti ao usuário um botão de adotar, possibilitando mais informações privadas entre o interessado e o anunciante.
+
+![pagina-adote](img/pagina-adote.png)
+
+                                            Tela adote.
+
+## Tela – Pagina doe um pet
+
+Essa página de doe um pet e representada por um título, conteúdo, botão e imagem, permite:
+
+· Um botão que permite ao usuário divulgar fotos e informação daquele animal (cachorro e gato) para doar.
+
+![pagina-doe-um-pet](img/pagina-doe-um-pet.png)
+
+                                            Tela doe um pet.
+
+## Tela – Pagina de contato
+
+Essa tela possibilita o usuário a entrar em contato conosco através dos meios de comunicação listados abaixo na foto a seguir. É representada por um título, conteúdo e imagem.
+
+![pagina-contato](img/pagina-contato.png)
+
+                                            Tela de contato.
+
+## Tela – Rodapé       
+
+Nessa tela mostra a parte final da página, nela se encontra as nossas redes socias (LinkedIn, Gmail, Facebook, Instagram, compartilhamento de página).
+
+![rodape](img/rodape.png)
+
+                                            Tela de rodapé.
+
+                                            
