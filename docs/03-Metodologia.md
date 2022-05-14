@@ -30,15 +30,15 @@ A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para def
 
 A equipe está organizada da seguinte maneira:
 
-⦁ Scrum Master:
- o Aleson
-⦁ Product Owner:
- o Carol
-⦁ Equipe de Desenvolvimento:
- o Arthur
- o Guilherme
-⦁ Equipe de Design:
- o Brenno
+⦁ Scrum Master:<br>
+ ⦁ Aleson
+⦁ Product Owner:<br>
+ ⦁ Carol
+⦁ Equipe de Desenvolvimento:<br>
+ ⦁ Arthur<br>
+ ⦁ Guilherme
+⦁ Equipe de Design:<br>
+ ⦁ Brenno
 
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello estruturado com as seguintes listas:
 
