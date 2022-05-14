@@ -20,20 +20,46 @@ Para se ter uma melhor gestão do código fonte do software desenvolvido pela eq
 
 ![metodologia](https://user-images.githubusercontent.com/90843292/168430149-bcd9ea96-8499-4b1a-b00d-86d9e23cbdcf.jpg)
 
-
+                    Figura X - Fluxo de controle do código fonte no repositório git
 
 
 
 ## Gerenciamento de Projeto
 
-### Divisão de Papéis
+A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento.
 
-Apresente a divisão de papéis entre os membros do grupo.
+A equipe está organizada da seguinte maneira:
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+⦁ Scrum Master:
+ o Aleson
+⦁ Product Owner:
+ o Carol
+⦁ Equipe de Desenvolvimento:
+ o Arthur
+ o Guilherme
+⦁ Equipe de Design:
+ o Brenno
+
+Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello estruturado com as seguintes listas:
+
+⦁ Recursos: esta lista mantém template de tarefas recorrentes com as configurações padronizadas que todos devem seguir. O objetivo é permitir a cópia destes templates para agilizar a criação de novos cartões.
+
+⦁ Backlog: recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista.
+
+⦁ To Do: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando.
+
+⦁ Doing: Quando uma tarefa tiver sido iniciada, ela é movida para cá.
+
+⦁ Test: Checagem de Qualidade. Quando as tarefas são concluídas, eles são movidos para o “CQ”. No final da semana, eu revejo essa lista para garantir que tudo saiu perfeito.
+
+⦁ Done: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
+
+⦁ Locked: Quando alguma coisa impede a conclusão da tarefa, ela é movida para esta lista juntamente com um comentário sobre o que está travando a tarefa.
+
+O quadro kanban do grupo no Trello está disponível através da URL https://trello.com/invite/b/MZPMHZde/cbd469a2239051ae6418edff9f97c397/1-parte
+
+![trello](https://user-images.githubusercontent.com/90843292/168431034-b56654c5-e625-4221-bceb-28108f526704.jpg)
+
 
 ### Processo
 
