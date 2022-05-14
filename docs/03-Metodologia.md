@@ -9,7 +9,7 @@ Os artefatos do projeto são criados usando uma variedade de plataformas, e a re
 
 | AMBIENTE | PLATAFOEMA | LINK DE ACESSO                |
 |--------------------|------------------------------------|----------------------------------------|
-|Repositório de código fonte| GitHub | (ICEI-PUC-Minas-PMVADS/pmv-ads-2022-1-e1-proj-web-t6-grupo_3_adoteoudoeseupet: pmv-ads-2022-1-e1-proj-web-t6-grupo_3_adoteoudoeseupet created by GitHubClassroom) |
+|Repositório de código fonte| GitHub | (https://github.com/ICEI-PUC-Minas-PMV-ADS pmv-ads-2022-1-e1-proj-web-t6-grupo_3_adoteoudoeseupet) |
 
 ## Gerenciamento de Projeto
 
