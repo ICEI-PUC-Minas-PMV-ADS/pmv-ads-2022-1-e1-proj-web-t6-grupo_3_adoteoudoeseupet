@@ -29,13 +29,6 @@ Juntar pessoas com desejo de adoção, com a necessidade de cães ou gatos em bu
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+O foco deste trabalho é o público de animais que se encontram em situação de abandono por pessoas que por algum motivo não podem continuar com o animal, com o objetivo de reduzir o número de animais abandonados nas ruas e proporcionar - lhes novos lares.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Como resultado, estabeleceu-se como público alvo desta solução: animais (cães e gatos) que se encontram em situação de vulnerabilidade ou abandono. Por meio do site, pessoas que não podem mais cuidar dos animais se cadastram para adoção, permitindo as pessoas dispostas a adotar encontrem o animal que antes seria abandonado e agora terá um novo lar.
