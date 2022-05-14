@@ -1,7 +1,3 @@
 # Referências
 
-Inclua todas as referências (livros, artigos, sites, etc) utilizados no desenvolvimento do trabalho.
-
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
+Souza,Carinne. Abandono de animais aumentou cerca de 60% durante a pandemia. SOSBrasília, 2021. Disponível em:<https://sosbrasilia.com.br/nacional/abandono-de-animais-aumentou-cerca-de-60-durante-a-pandemia/>.Acesso em: 5 mar. 2022.
