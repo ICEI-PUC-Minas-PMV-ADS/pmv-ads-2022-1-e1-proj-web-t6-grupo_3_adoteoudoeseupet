@@ -9,7 +9,7 @@ Desta forma, todo conteúdo e padrão de layout podem ser transportados para as 
 O diagrama da Figura a seguir mostra o fluxo de interação do usuário através das telas do sistema. Cada uma das telas neste fluxo é descrita em detalhes na seção de Wireframes. Para visualizar o Wireframe interativo, acesse o Figma.
 (https://www.figma.com/file/LrRbbZ3COSTbXcRlPDNx41/Projeto-Wiframes?nodeid=0%3A1)
 
-![fluxo de telas](img\fluxo de telas de usuario.png)
+![fluxo de telas de usuario](img\fluxo-de-telas-de-usuario.png)
 
 ![Exemplo de UserFlow](img/userflow.jpg)
 
