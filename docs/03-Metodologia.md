@@ -9,7 +9,20 @@ Os artefatos do projeto são criados usando uma variedade de plataformas, e a re
 
 | AMBIENTE | PLATAFOEMA | LINK DE ACESSO                |
 |--------------------|------------------------------------|----------------------------------------|
-|Repositório de código fonte| GitHub | (https://github.com/ICEI-PUC-Minas-PMV-ADS pmv-ads-2022-1-e1-proj-web-t6-grupo_3_adoteoudoeseupet) |
+|Repositório de código fonte| GitHub | (https://github.com/ICEI-PUC-Minas-PMV-ADSpmv-ads-2022-1-e1-proj-web-t6-grupo_3_adoteoudoeseupet) |
+|Documentos do projeto| Google Drive | (https://drive.google.com/drive/folders/1BhRf-E5KPmibfKJU8vjR8fwoVId3tasg?usp=sharing) |
+|Projeto de Interface e Wireframes| Figma | (https://www.figma.com/file/sXo0QylsZ5hqCiqSTdWL3f/ADS-TURMA-06---GRUPO-03?nodeid=0%3A1) |
+|Gerenciamento do Projeto| Trello | (https://trello.com/b/MZPMHZde/1-parte) |
+
+## Gestão de código fonte
+
+Para se ter uma melhor gestão do código fonte do software desenvolvido pela equipe, o grupo utiliza um processo baseado no GitFlow abordado por Vietro (2015), mostrado na Figura a seguir. Desta forma, todas as manutenções no código são realizadas em branches separados, identificados como Hotfix, Release, Develop e Feature.
+
+![metodologia.png](https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADSpmv-ads-2022-1-e1-proj-web-t6-grupo_3_adoteoudoeseupet/docs/03-Metodologia.md/metodologia.png)
+
+
+
+
 
 ## Gerenciamento de Projeto
 
