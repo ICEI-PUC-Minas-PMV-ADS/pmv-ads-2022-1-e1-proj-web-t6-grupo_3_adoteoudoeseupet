@@ -72,56 +72,53 @@ As subsequentes histórias de usuários foram registradas com base em uma concep
 |Wiliam Silva| Achar uma nova moradia para o meu gato Tom.| Vou me mudar pra outro país e infelizmente não vou poder ficar com ele. Quero encontrar alguém que realmente pegue para cuidar, dar todo amor e carinho que ele merece.|
 |João Paulo| Adotar um cachorro de grande porte.| Preciso de um cão de guarda na minha casa.|
 |Valentina Pereira| Adotar dois ou três gatos filhotes que estejam precisando de suporte, amor e carinho.| Encontrar um novo lar para os filhotes da minha cachorra que deu à luz a 4 cachorrinhos.|
-|Maria Pérez| Encontrar pessoas interessadas em adotar filhotes de cachorro.| Faço parte de um ONG, que resgata e cuida de
-animais abandonados.|
+|Maria Pérez| Encontrar pessoas interessadas em adotar filhotes de cachorro.| Faço parte de um ONG, que resgata e cuida de animais abandonados.|
 |Victor Mendes| Achar pessoas interessadas em adotar os animais da minha ONG.| Ajudar pessoas encontrarem seu pet ideal para adotar.|
 
-## Requisitos
+## Requisitos do Projeto
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+O escopo funcional do projeto é definido por meio dos requisitos funcionais que descrevem as possibilidades interação dos usuários, bem como os requisitos não funcionais que descrevem os aspectos que o sistema deverá apresentar de maneira geral. Estes requisitos são apresentados a seguir.
 
 ### Requisitos Funcionais
 
+A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade em que os mesmos devem ser entregues:
+
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-01| O sistema deve permitir ao usuário divulgar seu animal (cachorro e gato) para adoção. | ALTA | 
+|RF-02| O sistema deve permitir ao usuário encontrar seu animal para adotar, nas características desejadas. | ALTA |
+|RF-03| O sistema deve permitir ao usuário fotos e informação necessárias sobre o pet interessado. | MÉDIA |
+|RF-04| O sistema deve oferecer um menu que permita ao usuário divulgar fotos e informação daquele animal para adoção. | MÉDIA |
+|RF-05| O site deve permitir salvar anúncios interessado pelo usuário. | BAIXA |
+|RF-06| O site deve permitir que usuários possam comentar sobre o anúncio. | BAIXA |
+|RF-07| O site deve permitir ao usuário um menu Chat, possibilitando a comunicação privada entre o interessado e o anunciante. | ALTA |
+|RF-08| O site deve permitir ao usuário criar uma conta privada, possibilitando divulgar e adotar seu animal de estimação. | ALTA |
+
 
 
 ### Requisitos não Funcionais
 
+A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender:
+
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-01| O site deve ter disponibilidade de servidor web. | ALTA | 
+|RNF-02| O site deverá ter certificado ssl. |  ALTA | 
+|RNF-03| O site deve ter acesso de todos os usuários de todas as plataformas. | MÉDIA |
+|RNF-04| O site deverá ser um site leve e rápido. | MÉDIA |
+|RNF-05| O servidor onde o site estará hospedado deve oferecer algum nível de segurança. | ALTA |
+|RNF-06| O site deverá ser usado uma arquitetura que comporte transição para uso em Mobile. | MÉDIA |
+|RNF-07| O site deverá permitir acessos simultâneos. | MÉDIA |
 
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ## Restrições
 
-O projeto está restrito pelos itens apresentados na tabela a seguir.
+A tabela abaixo lista as questões que limitam a execução deste projeto e aquelas que criam uma obrigação clara para o desenvolvimento do projeto relacionado.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|RE-01| Esse projeto não deve sofrer atrasos. Tem prazo de entrega (junho, 2022), de acordo com o final do semestre letivo. |
+|RE-02| Os integrantes da equipe só podem trabalhar, no projeto, em determinados horários nos dias uteis (de 20:00h as 00:00h) |
 
 
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
