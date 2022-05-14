@@ -21,12 +21,11 @@ Como objetivos específicos, podemos ressaltar:
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+O abandono de animais não é um problema atual no Brasil, pelo contrário, já é uma questão recorrente a anos. Porém com a pandemia, esse índice aumentou, por conta da dificuldade econômica da sociedade. Assim como aumentou também a procura para adoção de animas de estimação, reação devido a pandemia, pois as pessoas passaram a ficar mais tempo confinadas.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+Contudo, o projeto leva em consideração todos esses fatores. Nosso interesse é ajudar a diminuir o abandono, e facilitar a adoção de forma coerente e responsável. Muito melhor que simplesmente largar seu pet na rua, seira anuncia-lo na nossa plataforma para que possa encontrar um novo lar, onde terá os devidos cuidados e carinho merecido.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Juntar pessoas com desejo de adoção, com a necessidade de cães ou gatos em busca de uma nova casa. Desde que seja bom para ambos, principalmente para os animais, pois não é simplesmente o ato de adotar, mas também de cuidar, alimentar, e retribuir todo afeto e carinho que eles nus proporcionam.
 
 ## Público-Alvo
 
