@@ -85,14 +85,14 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-01| O sistema deve permitir ao usuário divulgar seu animal (cachorro e gato) para adoção. | ALTA | 
-|RF-02| O sistema deve permitir ao usuário encontrar seu animal para adotar, nas características desejadas. | ALTA |
-|RF-03| O sistema deve permitir ao usuário fotos e informação necessárias sobre o pet interessado. | MÉDIA |
-|RF-04| O sistema deve oferecer um menu que permita ao usuário divulgar fotos e informação daquele animal para adoção. | MÉDIA |
-|RF-05| O site deve permitir salvar anúncios interessado pelo usuário. | BAIXA |
-|RF-06| O site deve permitir que usuários possam comentar sobre o anúncio. | BAIXA |
-|RF-07| O site deve permitir ao usuário um menu Chat, possibilitando a comunicação privada entre o interessado e o anunciante. | ALTA |
-|RF-08| O site deve permitir ao usuário criar uma conta privada, possibilitando divulgar e adotar seu animal de estimação. | ALTA |
+|RF-001| O sistema deve permitir ao usuário divulgar seu animal (cachorro e gato) para adoção. | ALTA | 
+|RF-002| O sistema deve permitir ao usuário encontrar seu animal para adotar, nas características desejadas. | ALTA |
+|RF-003| O sistema deve permitir ao usuário fotos e informação necessárias sobre o pet interessado. | MÉDIA |
+|RF-004| O sistema deve oferecer um menu que permita ao usuário divulgar fotos e informação daquele animal para adoção. | MÉDIA |
+|RF-005| O site deve permitir salvar anúncios interessado pelo usuário. | BAIXA |
+|RF-006| O site deve permitir que usuários possam comentar sobre o anúncio. | BAIXA |
+|RF-007| O site deve permitir ao usuário um menu Chat, possibilitando a comunicação privada entre o interessado e o anunciante. | ALTA |
+|RF-008| O site deve permitir ao usuário criar uma conta privada, possibilitando divulgar e adotar seu animal de estimação. | ALTA |
 
 
 
