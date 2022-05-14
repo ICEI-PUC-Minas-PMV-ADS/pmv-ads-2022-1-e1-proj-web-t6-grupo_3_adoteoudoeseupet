@@ -64,21 +64,17 @@ Instagram<br> Facebook<br> Youtube | Mora em Belo horizonte, Casado e Não tem f
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+As subsequentes histórias de usuários foram registradas com base em uma concepção diária dos papéis identificados pelo projeto.
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
+|Sandra Regina| Quero adotar um cão de pequeno porte.| Acredito que um cão pode trazer felicidade e alegria, após a perda do meu último pet.|
+|Wiliam Silva| Achar uma nova moradia para o meu gato Tom.| Vou me mudar pra outro país e infelizmente não vou poder ficar com ele. Quero encontrar alguém que realmente pegue para cuidar, dar todo amor e carinho que ele merece.|
+|João Paulo| Adotar um cachorro de grande porte.| Preciso de um cão de guarda na minha casa.|
+|Valentina Pereira| Adotar dois ou três gatos filhotes que estejam precisando de suporte, amor e carinho.| Encontrar um novo lar para os filhotes da minha cachorra que deu à luz a 4 cachorrinhos.|
+|Maria Pérez| Encontrar pessoas interessadas em adotar filhotes de cachorro.| Faço parte de um ONG, que resgata e cuida de
+animais abandonados.|
+|Victor Mendes| Achar pessoas interessadas em adotar os animais da minha ONG.| Ajudar pessoas encontrarem seu pet ideal para adotar.|
 
 ## Requisitos
 
