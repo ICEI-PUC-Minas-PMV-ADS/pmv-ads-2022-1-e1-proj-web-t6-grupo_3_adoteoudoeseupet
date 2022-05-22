@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Adote um Pet</title>
+  <link rel="stylesheet" href="css/main.css">
+  <script src="https://kit.fontawesome.com/2b8a7478aa.js" crossorigin="anonymous"></script>
+</head>
+<body>
+  <header>
+    <center>
+      <content>
+        <a href="#" class="logo"><h2>Adote um Pet</h2></a>
+
+        <ul class="ml-f menu">
+          <li><a href="#">Adote</a></li>
+          <li><a href="#">Doar</a></li>
+          <li><a href="#sobre">Sobre</a></li>
+          <li><a href="#">Contato</a></li>
+        </ul>
+
+        <ul class="login">
+          <li><a href="#">Entrar</a></li>
+          <li>|</li>
+          <li><a href="#">Cadastrar</a></li>
+        </ul>
+      </content>
+    </center>
+  </header>
+  <main>
+    <div class="banner">
+      <div class="banner-item" style="--bg-img-pic: url(../images/beautiful-pet-portrait-of-small-dog-and-cat.jpg);">
+        <center>
+          <div class="text">
+            <h1>Adote uma vida</h1>
+            <h1>Adote um carinho</h1>
+            <p>São mais de 30 milhões de animais esperando um lar cheio de afeto, respeito e amor.</p>
+            <a href="#" class="btn">Quero Adotar</a>
+          </div>
+        </center>
+      </div>
+    </div>
+
+    <center>
+      <div class="page" id="sobre">
+        <h1>Adote um animal</h1>
+        <div class="text">
+          <p>Em nossos espaços, temos cães e gatos para todos os perfis e lares.</p>
+          <p>Navegue abaixo, para acessar às fotos e tudo que você precisa saber sobre os pets: nome, grupo etário, porte, sexo, se é castrado ou não, se há alguma necessidade especial ou doença, além do perfil social.</p>
+        </div>
+      </div>
+
+      <div class="page search">
+        <h1>Procure por um pet</h1>
+        <form action="" method="get" class="flex-row pesquisar-pets">
+          <div class="custom-select">
+            <select name="especie" id="especie">
+              <option value="0">Especie:</option>
+              <option value="1">Cachorro</option>
+              <option value="2">Gato</option>
+            </select>
+          </div>
+
+          <div class="custom-select">
+            <select name="tipo" id="tipo">
+              <option value="0">Todos os animais:</option>
+              <option value="1">Cachorro</option>
+              <option value="2">Gato</option>
+            </select>
+          </div>
+          
+          <div class="input">
+            <input type="search" name="procurar" id="procurar" placeholder="Nome do animal">
+          </div>
+        </form>
+
+        <div class="resultados">
+          <div class="resultado-match">
+            <div class="image">
+              <img src="./images/img.svg" alt="img.svg">
+            </div>
+            <div class="detail">
+              <div class="nome">
+                <h3>Nome do pet</h3>
+                <p>Alguns detalhes</p>
+              </div>
+              <div class="coracao p-1" onclick="showHeart()">
+                <i class="fa fa-heart"></i>
+              </div>
+              <div class="conversar p-1">
+                <i class="fa fa-regular fa-comment"></i>
+              </div>
+            </div>
+            <div class="match pt-1">
+              <a href="#" class="btn">
+                Adote
+                <i class="fa fa-plus"></i>
+              </a>
+            </div>
+          </div>
+          <div class="resultado-match">
+            <div class="image">
+              <img src="./images/img.svg" alt="img.svg">
+            </div>
+            <div class="detail">
+              <div class="nome">
+                <h3>Nome do pet</h3>
+                <p>Alguns detalhes</p>
+              </div>
+              <div class="coracao p-1" onclick="showHeart()">
+                <i class="fa fa-heart"></i>
+              </div>
+              <div class="conversar p-1">
+                <i class="fa fa-regular fa-comment"></i>
+              </div>
+            </div>
+            <div class="match pt-1">
+              <a href="#" class="btn">
+                Adote
+                <i class="fa fa-plus"></i>
+              </a>
+            </div>
+          </div>
+          <div class="resultado-match">
+            <div class="image">
+              <img src="./images/img.svg" alt="img.svg">
+            </div>
+            <div class="detail">
+              <div class="nome">
+                <h3>Nome do pet</h3>
+                <p>Alguns detalhes</p>
+              </div>
+              <div class="coracao p-1" onclick="showHeart()">
+                <i class="fa fa-heart"></i>
+              </div>
+              <div class="conversar p-1">
+                <i class="fa fa-regular fa-comment"></i>
+              </div>
+            </div>
+            <div class="match pt-1">
+              <a href="#" class="btn">
+                Adote
+                <i class="fa fa-plus"></i>
+              </a>
+            </div>
+          </div>
+          <div class="resultado-match">
+            <div class="image">
+              <img src="./images/img.svg" alt="img.svg">
+            </div>
+            <div class="detail">
+              <div class="nome">
+                <h3>Nome do pet</h3>
+                <p>Alguns detalhes</p>
+              </div>
+              <div class="coracao p-1" onclick="showHeart()">
+                <i class="fa fa-heart"></i>
+              </div>
+              <div class="conversar p-1">
+                <i class="fa fa-regular fa-comment"></i>
+              </div>
+            </div>
+            <div class="match pt-1">
+              <a href="#" class="btn">
+                Adote
+                <i class="fa fa-plus"></i>
+              </a>
+            </div>
+          </div>
+          <div class="resultado-match">
+            <div class="image">
+              <img src="./images/img.svg" alt="img.svg">
+            </div>
+            <div class="detail">
+              <div class="nome">
+                <h3>Nome do pet</h3>
+                <p>Alguns detalhes</p>
+              </div>
+              <div class="coracao p-1" onclick="showHeart()">
+                <i class="fa fa-heart"></i>
+              </div>
+              <div class="conversar p-1">
+                <i class="fa fa-regular fa-comment"></i>
+              </div>
+            </div>
+            <div class="match pt-1">
+              <a href="#" class="btn">
+                Adote
+                <i class="fa fa-plus"></i>
+              </a>
+            </div>
+          </div>
+          <div class="resultado-match">
+            <div class="image">
+              <img src="./images/img.svg" alt="img.svg">
+            </div>
+            <div class="detail">
+              <div class="nome">
+                <h3>Nome do pet</h3>
+                <p>Alguns detalhes</p>
+              </div>
+              <div class="coracao p-1" onclick="showHeart()">
+                <i class="fa fa-heart"></i>
+              </div>
+              <div class="conversar p-1">
+                <i class="fa fa-regular fa-comment"></i>
+              </div>
+            </div>
+            <div class="match pt-1">
+              <a href="#" class="btn">
+                Adote
+                <i class="fa fa-plus"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="page">
+        <h1>Por quê adotar?</h1>
+        <div class="adotar-grid">
+          <div class="adotar">
+            <div class="image">
+              <img src="./images/cat.svg" alt="" srcset="">
+            </div>
+            <div class="texto">
+              <h3>Os melhores amigos</h3>
+              <p>Sempre fieis aos seus donos e infinito amor incondicional</p>
+            </div>
+          </div>
+          <div class="adotar">
+            <div class="image">
+              <img src="./images/dog1.svg" alt="" srcset="">
+            </div>
+            <div class="texto">
+              <h3>Os melhores amigos</h3>
+              <p>Sempre fieis aos seus donos e infinito amor incondicional</p>
+            </div>
+          </div>
+          <div class="adotar">
+            <div class="image">
+              <img src="./images/dog2.svg" alt="" srcset="">
+            </div>
+            <div class="texto">
+              <h3>Os melhores amigos</h3>
+              <p>Sempre fieis aos seus donos e infinito amor incondicional</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="page contato" id="contato">
+        <div class="image">
+          <img src="./images/phones.svg" alt="phones">
+        </div>
+        <div class="texto">
+          <h1>Entre em nosso site</h1>
+          <p>Registre-se com apenas alguns passos em nosso site especializado na busca de animais para adoção</p>
+          <a href="#" class="btn">Registrar-se</a>
+          <p>Ou, se já tem uma conta, <a href="#"><i>entre aqui</i></a></p>
+        </div>
+      </div>
+
+    </center>
+  </main>
+  <footer></footer>
+
+  <script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
+  <div class="heart-icon-show" id="heart-element">
+    <lord-icon
+        src="https://cdn.lordicon.com/rjzlnunf.json"
+        trigger="loop"
+        delay="200"
+        colors="primary:#c7166f,secondary:#c7166f"
+        stroke="85"
+        id="heart-animation"
+        style="width:400px;height:400px">
+    </lord-icon>
+  </div>
+
+  <script src="./js/main.js"></script>
+</body>
+</html>
