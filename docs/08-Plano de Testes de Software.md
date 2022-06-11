@@ -12,8 +12,7 @@ Os testes funcionais a serem realizados no site são descritos a seguir:
 
 |Caso de Teste| CT-02 – Visualizar fotos e informações                                              |
 |-------------|-------------------------------------------------------------------------------------|
-|Requisitos Associados| RF-03- O sistema deve permitir ao usuário fotos e informação necessárias sobre o pet interessado.
-<br>RF-04- O sistema deve oferecer um menu que permita ao usuário divulgar fotos e informação daquele animal para adoção.|
+|Requisitos Associados| RF-03- O sistema deve permitir ao usuário fotos e informação necessárias sobre o pet interessado <br> RF-04- O sistema deve oferecer um menu que permita ao usuário divulgar fotos e informação daquele animal para adoção.|
 |Objetivo do Teste| Verificar se as fotos e informações aparecem corretamente. |
 |Passos| 1. Acessar o Navegador <br> 2. Informar o endereço do Site <br> 3. Visualizar a página |
 |Critérios de Êxito| ●	As imagens e informações de cada animal devem ser exibidas corretamente no site. |
