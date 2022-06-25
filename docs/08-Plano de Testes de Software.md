@@ -2,12 +2,12 @@
 
 Os testes funcionais a serem realizados no site são descritos a seguir:
 
-|Caso de Teste| CT-01 – Encontrar um animal                                              |
+|Caso de Teste| CT-01 – Encontrar e divulgar um animal                                              |
 |-------------|-------------------------------------------------------------------------------------|
 |Requisitos Associados| RF-01 - O sistema deve permitir ao usuário divulgar seu animal (cachorro e gato) para adoção.<br>RF-02 - O sistema deve permitir ao usuário encontrar seu animal para adotar, nas características desejadas.|
 |Objetivo do Teste| Verificar se o sistema está encontrando  o animal corretamente. |
 |Passos| 1. Acessar o Navegador <br> 2. Informar o endereço do Site <br> 3. Visualizar a página |
-|Critérios de Êxito| ●	Deve haver um botão de buscar um animal na página. |
+|Critérios de Êxito| ●	Deve haver um botão de buscar animal/divulgar um animal na página. |
 
 
 |Caso de Teste| CT-02 – Visualizar fotos e informações                                              |
@@ -26,7 +26,15 @@ Os testes funcionais a serem realizados no site são descritos a seguir:
 |Critérios de Êxito| ●	Deve haver um botão permitindo salvar o anuncio; <br> ●	Os comentários devem ser exibidos corretamente no site;<br> ●	Os anúncios devem trazer imagens visíveis.|
 
 
-|Caso de Teste| CT-04 – Pagina de cadastro                                                            |
+|Caso de Teste| CT-04 – Menu Chat                                                                   |
+|-------------|-------------------------------------------------------------------------------------|
+|Requisitos Associados| RF-07 - O site deve permitir ao usuário um menu Chat, possibilitando a comunicação privada entre o interessado e o anunciante. |
+|Objetivo do Teste| Verificar a comunicação privada entre o interessado e o anunciante.	 |
+|Passos| 1. Acessar o Navegador <br> 2. Informar o endereço do Site <br> 3. Visualizar a página <br> 4.Clicar no menu chat |
+|Critérios de Êxito| ●	A página deve apresentar um menu Chat para que o interessado possa se comunicar com o anunciante.  |
+
+
+|Caso de Teste| CT-05 – Pagina de cadastro                                                            |
 |-------------|-------------------------------------------------------------------------------------|
 |Requisitos Associados| RF-08 - O site deve permitir ao usuário criar uma conta privada, possibilitando divulgar e adotar seu animal de estimação. |
 |Objetivo do Teste| Verificar se a de cadastro de contas está funcionando corretamente.	 |
